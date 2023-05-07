@@ -1,3 +1,8 @@
 baseURL = 'https://sdesojo.github.io/web-sdesojo2.0/'
 languageCode = 'en-us'
 title = '/sdesojo2.0'
+description = 'testing new portfolio updates'
+
+[params]
+    authors = ["Silvia De Sojo Caso"]
+    github = "https://github.com/sdesojo/web-sdesojo2.0"
